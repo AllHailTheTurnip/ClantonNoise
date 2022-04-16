@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "znhBgmeQZ0fWGS5x9onoYny7rOoj3fice/sXAZXlpdebgGvpV6H8WmQxDODQrrbHFmc2umd0BBQ0n6zL0h36pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\termi\\RiderProjects\\ClantonNoise\\ClantonNoise\\ClantonNoise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\termi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.7.21377.19\\microsoft.win32.systemevents.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "C:\\Users\\termi\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.7.21377.19\\system.drawing.common.6.0.0-preview.7.21377.19.nupkg.sha512"
+  ],
+  "logs": []
+}
